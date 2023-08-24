@@ -1,0 +1,35 @@
+h1{
+    ext-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: rgb(33, 19, 19);
+ }
+body{
+    background-color: rgb(199, 29, 179);
+}
+p{
+   text-align: center;
+}
+
+ .NamaLengkap{
+    color: antiquewhite;
+ }
+ .Nama{
+    color: blue;
+ }
+ .Class{
+    color: antiquewhite;
+ }
+ .Adrress{
+    color: rgb(0, 0, 255);
+ }
+.Hobby{
+    color: antiquewhite;
+}
+.MyDream{
+    color: rgb(17, 0, 255);
+}
+.QuoteFavorit{
+    color: rgb(255, 255, 255);
+}
+
+    
